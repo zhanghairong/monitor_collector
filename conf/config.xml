@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parameters>
+    <netthread>5</netthread>
+    <server>
+        <addr>http://0.0.0.0:50011</addr>
+    </server>
+    <db>
+        <mongo>mongodb://227.0.0.1</mongo>
+    </db>
+</parameters>
