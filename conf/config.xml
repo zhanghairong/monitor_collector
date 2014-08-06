@@ -7,4 +7,8 @@
     <db>
         <mongo>mongodb://227.0.0.1</mongo>
     </db>
+    <failedfile>
+        <action>/tmp/monitor/failedaction</action>
+        <error>/tmp/monitor/failederror</error>
+    </failedfile>
 </parameters>
